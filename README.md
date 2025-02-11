@@ -18,7 +18,7 @@ Hello! I'm Humphrey 🤓, a data analyst. I specialize in transforming raw data 
 
 *A glimpse of some of the projects I've been working on.*
 
-**How I helped Autostyle Ltd, to increase sales by 24% in 6 months.**
+**How I helped Autostyle Ltd, to increase sales by 24% in 6 months**
 ![image](1 anietie etuk data analytics car project.jpeg)
 
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
