@@ -72,10 +72,6 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
       <td>🌐</td>
       <td><a href="https://linkedin.com/in/etukanietie">The things I do daily on LinkedIn</a></td>
     </tr>
-    <tr>
-      <td>📺</td>
-      <td><a href="https://www.youtube.com/@LearnwithEtuk">Watch my tutorials on YouTube</a></td>
-    </tr>
   </tbody>
 </table>
 
