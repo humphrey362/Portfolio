@@ -2,7 +2,7 @@
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
-Hello! I'm Humphrey 🤓, I am a data analyst. I specialize in transforming raw data into strategic insights, uncovering trends and patterns to enable informed decision-making. I have experience across sales, operations, finance, and I help businesses solve challenges and unlock growth.
+Hello! I'm Humphrey 🤓, a data analyst. I specialize in transforming raw data into strategic insights, uncovering trends and patterns to enable informed decision-making. I have experience across sales, operations, finance, and I help businesses solve challenges and unlock growth.
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
