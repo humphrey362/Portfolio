@@ -28,6 +28,7 @@ Proficient in designing and optimizing data models in Power BI, including creati
 **How I helped CADRE AUTO, increase sales by 24% in 6 months**
 
 Data Cleaning and Visualization: **Excel**
+
 ![image](Portfolio1.png)
 
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
