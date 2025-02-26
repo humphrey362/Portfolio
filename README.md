@@ -25,8 +25,8 @@ Proficient in designing and optimizing data models in Power BI, including creati
 
 *A glimpse of some of the projects I've been working on.*
 
-**How I helped Autostyle Ltd, to increase sales by 24% in 6 months**
-![image](Auto Style.png)
+**How I helped CADRE AUTO, increase sales by 24% in 6 months**
+![image](Portfolio1.png)
 
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
