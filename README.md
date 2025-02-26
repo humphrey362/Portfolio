@@ -17,7 +17,7 @@ Skilled in managing large datasets to extract insights and support informed deci
 **- ✅ Data Visualization.**
 Experienced in creating interactive dashboards using Power BI to drive business insightst and decision-making.
 
-**- ✅ Data Visualization.**
+**- ✅ Data Modelling.**
 Proficient in designing and optimizing data models in Power BI, including creating relationships, using DAX, and optimizing performance for efficient reporting.
 
 <!--Section 2: List 3-4 key projects-->
