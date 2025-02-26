@@ -2,7 +2,7 @@
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
-Hello! I'm Humphrey 🤓, a data analyst. I specialize in transforming raw data into strategic insights, uncovering trends and patterns to enable informed decision-making. I have experience across sales, operations, finance, and I help businesses solve challenges and unlock growth.
+Hello! I'm Humphrey 🤓, a data analyst with a background in process engineering. I specialize in transforming raw data into strategic insights, uncovering trends and patterns to drive informed decision-making. With experience in process engineering, oil and gas operations, sales, and finance, I bring a unique perspective to problem-solving, optimizing systems, improving efficiencies, and leveraging data to unlock business growth.
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
