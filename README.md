@@ -9,9 +9,10 @@ Hello! I'm Humphrey 🤓, a data analyst with a background in process engineerin
 ## SKILLS
 
 **- ✅ Data Cleaning and Transformation.** 
+Proficient in identifying and rectifying inconsistencies, handling missing values, and preparing data for analysis to ensure accuracy and reliability.
 
 **- ✅ Data Handling.**
-
+Skilled in managing large datasets to extract insights and support informed decision-making.
 
 <!--Section 2: List 3-4 key projects-->
 ## MY PROJECT 
