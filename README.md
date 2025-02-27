@@ -39,6 +39,8 @@ Data Cleaning and Visualization: **Excel**
 Data Cleaning and Visualization: **Power BI**
 
 ![image](RIG WIP1.png)
+
+
 ![image](RIG WIP 2.png)
 
 On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. 
