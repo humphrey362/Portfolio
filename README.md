@@ -31,12 +31,10 @@ Data Cleaning and Visualization: **Excel**
 
 ![image](Portfolio1.png)
 
-The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
+<!--[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)-->
 
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
-
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**How I Enhanced Financial Efficiency and Supplier Performance by 50% for a Rig Project.**
 
 ![image](2 anietie etuk data analytics sales project.jpg)
 
