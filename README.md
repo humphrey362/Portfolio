@@ -36,8 +36,10 @@ Data Cleaning and Visualization: **Excel**
 
 **How I Enhanced Financial Efficiency and Supplier Performance by 50% for a Rig Project.**
 
+Data Cleaning and Visualization: **Power BI**
+
 ![image](RIG WIP1.png)
-![image](2 anietie etuk data analytics sales project.jpg)
+![image](RIG WIP 2.png)
 
 On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. 
 
