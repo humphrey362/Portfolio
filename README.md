@@ -46,12 +46,11 @@ Data Cleaning and Visualization: **Power BI**
  
 **From Data to Dollars: How I Improved Sales Performance and Revenue by 90% for CRM.**
 
-![image](3 anietie etuk data analytics agro project.jpg)
+![image](GRD1.png)
 
-Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
 
-<a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
-
+![image](GRD2.png)
+ 
 
 ## CONTACT DETAILS
 
