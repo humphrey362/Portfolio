@@ -44,7 +44,9 @@ Data Cleaning and Visualization: **Power BI**
 ![image](RIG WIP 2.png)
 
  
-**From Data to Dollars: How I Improved Sales Performance and Revenue by 90% for CRM.**
+**From Data to Dollars: How I Increased Sales Performance and Revenue by 90% for CRM.**
+
+Data Cleaning and Visualization: **Power BI**
 
 ![image](GRD1.png)
 
