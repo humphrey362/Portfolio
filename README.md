@@ -43,11 +43,8 @@ Data Cleaning and Visualization: **Power BI**
 
 ![image](RIG WIP 2.png)
 
-On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. 
-
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
-
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+ 
+**From Data to Dollars: How I Improved Sales Performance and Revenue by 90% for CRM.**
 
 ![image](3 anietie etuk data analytics agro project.jpg)
 
