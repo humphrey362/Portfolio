@@ -73,12 +73,9 @@ Data Cleaning and Visualization: **Power BI**
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
+      <td><a href="Eze Humphrey_CV.pdf">Download my CV</a></td>
     </tr>
-    <tr>
-      <td>🌐</td>
-      <td><a href="https://linkedin.com/in/etukanietie">The things I do daily on LinkedIn</a></td>
-    </tr>
+   
   </tbody>
 </table>
 
